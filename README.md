@@ -3,8 +3,8 @@
 I'm a Science Computer student and I'm from Sao Paulo in Brazil. I love technology and astronomy (and emojis 😅). ☄👨🏻‍🚀🌕🌎🪐🚀🌠🔭👨🏻‍💻💻📱
 <div>
   <a href="https://github.com/gabrielgianni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielgianni&show_icons=true&theme=nord&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgianni&layout=compact&langs_count=7&theme=nord"></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielgianni&show_icons=true&theme=nord&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgianni&layout=compact&langs_count=7&theme=nord"></a>
 </div>
   
 ## Languages
