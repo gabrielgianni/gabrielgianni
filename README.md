@@ -26,6 +26,11 @@ I'm a Science Computer student and I'm from Sao Paulo in Brazil. I love technolo
   <a href="https://www.linkedin.com/in/gabrielgianni" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+## Total profile visits :detective:
+<div>
+  <img align="center" src="https://profile-counter.glitch.me/gabrielgianni/count.svg">
+</div>
+
 <!--
 **gabrielgianni/gabrielgianni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
