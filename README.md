@@ -1,6 +1,6 @@
 # Hi there! I'm Gabriel Gianni. 👋
 ## About me
-I'm a Science Computer student and I'm from Sao Paulo in Brazil. I love technology and astronomy (and emojis 😅). ☄👨🏻‍🚀🌕🌎🪐🚀🌠🔭👨🏻‍💻💻📱
+I'm a Science Computer student, web developer and I'm from Sao Paulo in Brazil. I love technology and astronomy (and emojis 😅). ☄👨🏻‍🚀🌕🌎🪐🚀🌠🔭👨🏻‍💻💻📱
 <div>
   <a href="https://github.com/gabrielgianni">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielgianni&show_icons=true&theme=nord&include_all_commits=true&count_private=true">
@@ -13,6 +13,8 @@ I'm a Science Computer student and I'm from Sao Paulo in Brazil. I love technolo
   <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PHP logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="jQuery logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
   <img align="center" alt="Python logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
 </div>
