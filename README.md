@@ -1,6 +1,6 @@
 # Hi there! I'm Gabriel Gianni. 👋
 ## About me
-I'm a Science Computer student, web developer and I'm from Sao Paulo in Brazil. I love technology and astronomy (and emojis 😅). ☄👨🏻‍🚀🌕🌎🪐🚀🌠🔭👨🏻‍💻💻📱
+I'm a web developer, I have a degree in Computer Science, with a specialization in Data Science and Artificial Intelligence and a specialization in Cybersecurity and Defense. I'm from Sao Paulo in Brazil. I love technology and astronomy (and emojis 😅). ☄👨🏻‍🚀🌕🌎🪐🚀🌠🔭👨🏻‍💻💻📱
 <div>
   <a href="https://github.com/gabrielgianni">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielgianni&show_icons=true&theme=nord&include_all_commits=true&count_private=true">
